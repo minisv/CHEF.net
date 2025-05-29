@@ -1,0 +1,13 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="CHEF.net.MainWindow"
+        Title="CHEF.net"
+        Width="800"
+        Height="450">
+    <Grid>
+        <TextBlock Text="CHEF.net 애플리케이션"
+                  HorizontalAlignment="Center"
+                  VerticalAlignment="Center"
+                  FontSize="24" />
+    </Grid>
+</Window>
